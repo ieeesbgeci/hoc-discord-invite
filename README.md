@@ -1,4 +1,4 @@
-# game-db
+# Discord Invite
 
 ## Project setup
 ```
